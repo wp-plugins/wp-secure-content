@@ -1,6 +1,6 @@
 ﻿=== WP Secure Content ===
 
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Donate link: http://goo.gl/GHX5N
 Tags: WP Secure Content
 
