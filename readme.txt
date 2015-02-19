@@ -1,7 +1,6 @@
 ﻿=== WP Secure Content ===
 
 Contributors: fahadmahmood
-Donate link: http://goo.gl/GHX5N
 Tags: WP Secure Content
 
 Requires at least: 3.0
